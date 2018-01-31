@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Steel Doesn't Burn</name>
+	<author>mrStorrs</author>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>
+        Removes Flamability from Steel and Plasteel.
+	</description>
+</ModMetaData>
